@@ -21,7 +21,4 @@ In this project, I obtained the data from [Open Schools Kenya](https://openschoo
 ![Waste](https://user-images.githubusercontent.com/118732615/215313166-8d05c653-657b-4b34-84d0-33fa54e9d8f0.png)
 ![Water](https://user-images.githubusercontent.com/118732615/215313176-103c68e4-e714-4841-9ae7-43df64075f18.png)
 #### 4 The availability status of electircity and toilets is good (beyond 70%). However, the acceptable status for the four key amenities should be 100%.
-![Electricity](https://user-images.githubusercontent.com/118732615/215313192-2678c44f-ce07-4299-a7de-495cc2b975d2.png)
-![Toilets](https://user-images.githubusercontent.com/118732615/215313196-f6d7adb1-15ee-4280-afed-a96367b7f427.png)
-#### Summary of the Availability Status of the Four Amenities
 ![Amenities](https://user-images.githubusercontent.com/118732615/215313201-89e4dc45-2984-42a6-aed1-ff5510a246ae.png)
