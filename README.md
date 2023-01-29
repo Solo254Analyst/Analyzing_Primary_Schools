@@ -29,8 +29,11 @@ In this project, I obtained the data from [Open Schools Kenya](https://openschoo
 ![Sanitary Towel](https://user-images.githubusercontent.com/118732615/215314880-2c2a6db7-fdf4-4bbd-9415-3cb27664452b.png)
 ### Here is summary of the availability status of special programs
 ![Key Programs](https://user-images.githubusercontent.com/118732615/215314920-00702cf5-87c2-457e-9b31-3ca789e09164.png)
+### #Availability Status of Extracurricullar Activities
+### 7. For each of the anayzed extracurricullar activity, there was a significant number of schools that reported either not having the program or did not report anything at all
+![Extracurricular programs](https://user-images.githubusercontent.com/118732615/215315900-3e823383-aabd-4642-bc23-c233b6c611f3.png)
 ## Conclusion and Recommendations
 1. Primary schools in Kibera, Kangemi, and Mathare are in need of water and waste-disposal programs. More should also be done to improve the availability of electricity and toilets.
 2. Computer science skills are much needed in today's technology driven society. More primary schools in Kibera, Kangemi, and Mathare should be enabled to implement computer education.
 3. With Kibera, Kangemi, and Mathare being poverty-striken areas, issues such as lack of sanitary towels, oprhans, and special needs programs, can prevent young girs and boys from accessing education. From the findings, more needs to be done to ensure that the programs are implemented in every school. 
-
+4. Extracurricular activities are key in ensuring holistic learning. They help learners in developing skills such as crtical thinking, leadership, confidence, problem solving, teamwork, emotion fitness, and personality growth. Despite their importance, the analyis shows that a signifcant number of schols in Kibera, Kangemi, and Mathare do not implement these programs. Further research is required to understand why this is the case. 
