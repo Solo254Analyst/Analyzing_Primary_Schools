@@ -20,12 +20,12 @@ In this project, I obtained the data from [Open Schools Kenya](https://openschoo
 ### 3. Only 47.7% and 10.9% reported having water and waste-disposal programs respectively
 ![Waste](https://user-images.githubusercontent.com/118732615/215313166-8d05c653-657b-4b34-84d0-33fa54e9d8f0.png)
 ![Water](https://user-images.githubusercontent.com/118732615/215313176-103c68e4-e714-4841-9ae7-43df64075f18.png)
-### 4 The availability status of electircity and toilets is good (beyond 70%). However, the acceptable status for the four key amenities should be 100%.
+### 4. The availability status of electircity and toilets is good (beyond 70%). However, the acceptable status for the four key amenities should be 100%.
 ![Amenities](https://user-images.githubusercontent.com/118732615/215313201-89e4dc45-2984-42a6-aed1-ff5510a246ae.png)
 ### #Availability Status of Special Programs
-### Only three primary schools reported having a computer program
+### 5. Only three primary schools reported having a computer program
 ![Computer](https://user-images.githubusercontent.com/118732615/215314858-1767d2e6-e3cb-4fdd-848d-73bb76610b81.png)
-### The availability status of sanitary towels and special needs program in primary schools in considerably poor. Only 136 and 127 schools out of 503 reported having a sanitary towels and special needs programs respectively.
+### 6. The availability status of sanitary towels and special needs program in primary schools in considerably poor. Only 136 and 127 schools out of 503 reported having a sanitary towels and special needs programs respectively.
 ![Sanitary Towel](https://user-images.githubusercontent.com/118732615/215314880-2c2a6db7-fdf4-4bbd-9415-3cb27664452b.png)
 ### Here is summary of the availability status of special programs
 ![Key Programs](https://user-images.githubusercontent.com/118732615/215314920-00702cf5-87c2-457e-9b31-3ca789e09164.png)
