@@ -17,8 +17,10 @@ In this project, I obtained the data from [Open Schools Kenya](https://openschoo
 ### 2. There is no any significant correlation between student-teacher ratio and performance
 ![student-teacher ratio vs performance](https://user-images.githubusercontent.com/118732615/215312118-7e25684e-a697-4fd6-a4f7-29c5ef93f20d.png)
 ### Availability status of Key Amenities 
-#### 3. Primary schools in Kibera, Kangemi, and Mathare are in need of water and waste-disposal programs. Only 47.7% and 10.9% reported having water and waste-disposal programs respectively
+### 3. Primary schools in Kibera, Kangemi, and Mathare are in need of water and waste-disposal programs. Only 47.7% and 10.9% reported having water and waste-disposal programs respectively
 ![Waste](https://user-images.githubusercontent.com/118732615/215313166-8d05c653-657b-4b34-84d0-33fa54e9d8f0.png)
 ![Water](https://user-images.githubusercontent.com/118732615/215313176-103c68e4-e714-4841-9ae7-43df64075f18.png)
-#### 4 The availability status of electircity and toilets is good (beyond 70%). However, the acceptable status for the four key amenities should be 100%.
+### 4 The availability status of electircity and toilets is good (beyond 70%). However, the acceptable status for the four key amenities should be 100%.
 ![Amenities](https://user-images.githubusercontent.com/118732615/215313201-89e4dc45-2984-42a6-aed1-ff5510a246ae.png)
+### Availability status of Key Amenities
+
